@@ -7,4 +7,6 @@ I made the following changes:
 
 - After storing the data, create a page with `from_date` and `to_date` fields to return `orders`, `commission_owed`, and `revenue`. Additionally, create a view for displaying the `affiliate_email`.  
 
-- Set up routes for storing the form fields and retrieving results within the selected date range. 
+- Set up routes for storing the form fields and retrieving results within the selected date range.
+
+- I use MySQL database for this 
